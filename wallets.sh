@@ -1,0 +1,1 @@
+echo ./home/eduardo/substrate_doc/substrate/target/release/substrate inspect "either moon future penalty vanish spend sauce lucky elbow grow lend absent//derived-hard-key//$0"
